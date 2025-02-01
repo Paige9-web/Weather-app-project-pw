@@ -97,7 +97,7 @@ a:hover {
 }
 
 .weather-forecast-icon {
-  font-size: 38px;
+  width: 30px;
   text-align: center;
 }
 .weather-forecast-temperatures {

@@ -97,21 +97,21 @@ a:hover {
 }
 
 .weather-forecast-icon {
-  width: 30px;
-  text-align: center;
+  width: 50px;
+  height: 50px;
+  display: block;
+  margin: 0 auto;
+}
+.weather-forecast-temperature {
+  padding: 0 10px;
 }
 .weather-forecast-temperatures {
   text-align: center;
-  color: #3ab1c8;
+  color: #f65282;
   margin-top: 10px;
   display: flex;
   justify-content: center;
 }
-
-.weather-forecast-temperature {
-  padding: 0 10px;
-}
-
 footer {
   border-top: 1px solid #f9f7fe;
   padding: 30px 0 0 0;
